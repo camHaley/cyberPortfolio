@@ -16,7 +16,7 @@ I am a CS grad with a budding passion for cybersecurity. I am currently a radar 
 
 - **Protecting Privacy**: Committed to helping others maintain privacy and keeping sensative information out of unknown hands. 
 - **Fairness and Objectivity**: Committed to mitigating my own personal bias at work and maintaining integrity in the face of unethical influences. 
-- **Continuous Learning**: Intellectually bored as an ATC, I returned to school to acquire a Bachelor's Degree in CS all while working full-time. When I discovered cybersecurity via HacktheBox it became clear what I wanted to focus on. 
+- **Continuous Learning**: Intellectually understimulated as an ATC, I returned to school to acquire a Bachelor's Degree in CS all while working full-time. When I discovered cybersecurity via HacktheBox it became clear what I wanted to focus on. 
 
 ## Experience
 
