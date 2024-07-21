@@ -16,7 +16,7 @@ I am a CS grad with a passion for cybersecurity. I am currently a radar Air Traf
 
 - **Protecting Privacy**: Committed to helping others maintain privacy and keeping sensative information out of the hands of others.
 - **Fairness and Objectivity**: Committed to mitigating my own personal bias at work and maintaining integrity in the face of unethical influences. 
-- **Continuous Learning**: Intellectually bored as an ATC, I returned to school to acquire a Bachelor's Degree in CS all while working full-time. When I discovered cyber security via HacktheBox it became clear what I wanted to focus on. 
+- **Continuous Learning**: Intellectually bored as an ATC, I returned to school to acquire a Bachelor's Degree in CS all while working full-time. When I discovered cybersecurity via HacktheBox it became clear what I wanted to focus on. 
 
 ## Experience
 
@@ -26,4 +26,6 @@ I am a CS grad with a passion for cybersecurity. I am currently a radar Air Traf
 ## Education
 
 - **Bachelor's in Computer Science**: Graduated with a 3.75 GPA, demonstrating strong academic performance and technical expertise.
-- **Google Cybersecurity Professional Certificate**: Currently completing this course to develop a broad cybersecurity foundation. 
+- **Google Cybersecurity Professional Certificate**: Currently completing this course to develop a broad cybersecurity foundation.
+- **CompTIA Sec+**: Expected test date October 2024.
+- **HacktheBox CPTS**: Expected text date March 2025. 
