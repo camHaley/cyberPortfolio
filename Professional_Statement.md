@@ -2,7 +2,7 @@
 
 ## Summary
 
-I am a CS grad with a passion for cybersecurity. I am currently a radar Air Traffic Controller learning penetration testing, network security, and vulnerability assessment. I hope to soon hold my CompTIA Sec+ as well as the Google Professional Cert in Cybersecurity. 
+I am a CS grad with a budding passion for cybersecurity. I am currently a radar Air Traffic Controller learning penetration testing, network security, and vulnerability assessment. I enjoy the competitive, ever-evolving nature and intellectual challenge of cybersecurity. I hope to soon hold my CompTIA Sec+ as well as the Google Professional Cert in Cybersecurity. 
 
 ## Strengths
 
@@ -20,7 +20,7 @@ I am a CS grad with a passion for cybersecurity. I am currently a radar Air Traf
 
 ## Experience
 
-- **Air Traffic Controller (ATC)**: Strong background in a high-stakes, precision-oriented environment, enhancing my ability to handle complex tasks under pressure. Current Security Clearance. 
+- **Air Traffic Controller (ATC)**: Strong background in a high-stakes, detail-oriented environment, enhancing my ability to handle complex tasks under pressure. Current Security Clearance. 
 - **Hack The Box**: Active participant in various cybersecurity challenges to sharpen my skills and stay updated with the latest trends.
 
 ## Education
