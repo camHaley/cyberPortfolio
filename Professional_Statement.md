@@ -7,6 +7,7 @@ I am a CS grad with a budding passion for cybersecurity. I am currently a radar 
 ## Strengths
 
 - **Programming**: Proficient functional programming as well as OOP. Strongest languages include Java, python, and C++.
+- **Technical Communication**: Uniquely talented at communicating new technical concepts to non-techincal individuals. 
 - **Linux/Unix Systems Programming**: Proficient in standard Linux CLI usage including BASH/ZSH, SSH, and exiting vim.
 - **Wifi Pentesting**: Currently learning wifi pentesting on the Hak5 Pineapple.
 - **Network Security**: Developing skills in network security using the Google professional cert. and HacktheBox.
